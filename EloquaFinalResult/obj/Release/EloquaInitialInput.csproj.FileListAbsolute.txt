@@ -1,0 +1,4 @@
+D:\GitHub\SimpleInitialInput\EloquaFinalResult\bin\EloquaFinalResult.dll
+D:\GitHub\SimpleInitialInput\EloquaFinalResult\bin\EloquaFinalResult.pdb
+D:\GitHub\SimpleInitialInput\EloquaFinalResult\obj\Release\EloquaFinalResult.dll
+D:\GitHub\SimpleInitialInput\EloquaFinalResult\obj\Release\EloquaFinalResult.pdb
